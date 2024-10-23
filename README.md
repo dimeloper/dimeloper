@@ -9,7 +9,7 @@ Speaker, Author on Dev.to and Medium, Fullstack Developer with focus on Angular,
 
 
 <!-- Socials -->
-<a href="https://x/dimeloper"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Dimeloper Twitter profile" width="40"/></a>
+<a href="https://x.com/dimeloper"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Dimeloper Twitter profile" width="40"/></a>
 &ensp;<a href="https://www.youtube.com/@Dimeloper"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon-5.svg" title="YouTube" alt="Dimeloper YouTube profile" width="40"/></a>
 &ensp;<a href="https://www.linkedin.com/in/kiriakakis/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Dimitris Kiriakakis Linkedin account" width="30"/></a>
 &ensp;<a href="https://www.instagram.com/dimeloper_"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Dimeloper's Instagram profile" width="30" /></a>
@@ -25,6 +25,7 @@ Speaker, Author on Dev.to and Medium, Fullstack Developer with focus on Angular,
 
 ### Latest Posts
 <!-- BLOG-POST-LIST:START -->
+- [What's New in Next.js 15: New Hooks, Turbopack and more](https://dev.to/dimeloper/whats-new-in-nextjs-15-new-hooks-turbopack-and-more-2lo8)
 - [Building a GenAI Fitness App with Gemini](https://dev.to/dimeloper/building-a-genai-fitness-app-with-gemini-1p7)
 - [Viewport height and width units in modern CSS](https://dev.to/dimeloper/viewport-height-and-viewport-width-in-modern-css-34g0)
 - [Managing environment variables in Angular apps](https://dev.to/dimeloper/managing-environment-variables-in-angular-apps-14gn)
