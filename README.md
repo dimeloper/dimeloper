@@ -25,6 +25,8 @@ Speaker, Author on Dev.to and Medium, Fullstack Developer with focus on Angular,
 
 ### Latest Posts
 <!-- BLOG-POST-LIST:START -->
+- [Angular 19: Updating our projects and harnessing its latest features](https://dev.to/dimeloper/angular-19-updating-our-projects-and-harnessing-its-latest-features-3ppm)
+- [Git made simpler: Some modern alternatives to classic commands](https://dev.to/dimeloper/git-made-simpler-some-modern-alternatives-to-classic-commands-5g5j)
 - [What's New in Next.js 15: New Hooks, Turbopack and more](https://dev.to/dimeloper/whats-new-in-nextjs-15-new-hooks-turbopack-and-more-2lo8)
 - [Building a GenAI Fitness App with Gemini](https://dev.to/dimeloper/building-a-genai-fitness-app-with-gemini-1p7)
 - [Viewport height and width units in modern CSS](https://dev.to/dimeloper/viewport-height-and-viewport-width-in-modern-css-34g0)
