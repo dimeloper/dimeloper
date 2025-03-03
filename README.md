@@ -25,7 +25,7 @@ Speaker, Author on Dev.to and Medium, Fullstack Developer with focus on Angular,
 
 ### Latest Posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Accessible Web Applications: A Practical Guide for EAA Compliance]([https://dev.to/dimeloper/angular-19-updating-our-projects-and-harnessing-its-latest-features-3ppm](https://dev.to/dimeloper/building-accessible-web-applications-a-practical-guide-for-eaa-compliance-302))
+- [Building Accessible Web Applications: A Practical Guide for EAA Compliance](https://dev.to/dimeloper/building-accessible-web-applications-a-practical-guide-for-eaa-compliance-302)
 - [Angular 19: Updating our projects and harnessing its latest features](https://dev.to/dimeloper/angular-19-updating-our-projects-and-harnessing-its-latest-features-3ppm)
 - [Git made simpler: Some modern alternatives to classic commands](https://dev.to/dimeloper/git-made-simpler-some-modern-alternatives-to-classic-commands-5g5j)
 - [What's New in Next.js 15: New Hooks, Turbopack and more](https://dev.to/dimeloper/whats-new-in-nextjs-15-new-hooks-turbopack-and-more-2lo8)
